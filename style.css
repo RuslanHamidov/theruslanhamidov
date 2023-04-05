@@ -18,10 +18,12 @@ p
 }
 a
 {
-  color:blue;
-  text-align:center;
-}
+  color:blue; }
 a:hover
 {
   text-decoration:none;
+}
+footer
+{
+  text-align:center;
 }
