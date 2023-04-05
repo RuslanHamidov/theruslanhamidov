@@ -16,3 +16,11 @@ p
 {
   text-align:justify;
 }
+a
+{
+  color:blue;
+}
+a:hover
+{
+  text-decoration:none;
+}
