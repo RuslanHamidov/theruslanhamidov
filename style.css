@@ -15,15 +15,19 @@ background-clip: text;
 p
 {
   text-align:justify;
+  font-family: "Merriweather", "PT Serif", Georgia,  serif;
 }
 a
 {
-  color:blue; }
+  color:blue;
+  
+}
 a:hover
 {
   text-decoration:none;
 }
 footer
 {
+  font-weight:bold;
   text-align:center;
 }
